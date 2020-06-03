@@ -16,6 +16,9 @@ rm /tmp/tank.gpg
 [xfce412]
 Server = https://raw.github.com/tank142/repo/master/xfce412/$arch
 
+[tank142]
+Server = https://raw.github.com/tank142/repo/master/tank142/$arch
+
 [tank]
 Server = https://raw.github.com/tank142/repo/master/tank/$arch
 
